@@ -1,0 +1,2 @@
+This project is a Django CRUD REST API that allows users to perform basic Create, Read, Update, and Delete (CRUD) operations on a data model. Built using Django and Django REST Framework, the API provides endpoints for adding new records, retrieving records (individually or in bulk), updating existing records, and deleting records. The project follows RESTful architecture and is suitable for developers looking for a foundational example of CRUD functionality using Django.
+
